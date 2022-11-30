@@ -141,8 +141,8 @@
 }
 
 .section-title {
-  margin-top: 100px;
-  padding: 0;
+  margin: 0 auto;
+  padding: 0 0 20px;
   text-align: center;
   line-height: 1.15;
   font-size: 60px;
@@ -155,10 +155,10 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  margin-top: 20px;
   width: 60%;
   text-align: center;
-  margin: 0;
+  margin: 0 auto;
+  margin-top: 20px;
   padding: 0;
   z-index: 2;
 }
