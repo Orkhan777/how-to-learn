@@ -72,7 +72,6 @@
   text-decoration: none;
 }
 
-
 .header__main-illustration {
   position: absolute;
   width: 765px;
@@ -81,7 +80,6 @@
   bottom: 0;
   z-index: 1;
 }
-
 
 .description {
   display: flex;
@@ -188,7 +186,6 @@
   z-index: 2;
 }
 
-
 .table__heading {
   margin: 0;
   padding: 0;
@@ -283,13 +280,11 @@
   font-weight: 600;
 }
 
-
 .table__text_theme_dark {
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
 }
-
 
 .table_theme_dark {
   position: relative;
@@ -375,7 +370,6 @@
   font-size: 18px;
   font-weight: normal;
 }
-
 
 .footer__social-icon {
   width: 16px;
